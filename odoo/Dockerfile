@@ -1,4 +1,4 @@
 FROM odoo:15.0
-LABEL MAINTAINER="example@example.com"
+LABEL MAINTAINER="support@esacode.org"
 
 USER odoo
